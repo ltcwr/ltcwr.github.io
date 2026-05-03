@@ -200,34 +200,34 @@ In 2026, using a hardware wallet is no longer a sign of being advanced — it is
 
 #### BIP-32 {#bip32}
 A standard that defines how to generate a tree of private and public keys from a single seed, enabling hierarchical deterministic wallets.  
-[Learn More](#)
+[Learn More](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 
 ---
 
 #### BIP-39 {#bip39}
 A standard that converts random entropy into a human-readable seed phrase (typically 12 or 24 words) used to recover a wallet.  
-[Learn More](#)
+[Learn More](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
 
 ---
 
 #### BIP-44 {#bip44}
 A specification that standardizes how hierarchical wallets derive keys for different cryptocurrencies and accounts.  
-[Learn More](#)
+[Learn More](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
 
 ---
 
 #### ECDSA {#ecdsa}
 Elliptic Curve Digital Signature Algorithm used by Bitcoin and Ethereum to sign transactions and prove ownership of a private key.  
-[Learn More](#)
+[Learn More](https://wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
 ---
 
 #### EdDSA {#eddsa}
 A modern digital signature scheme (e.g. Ed25519) known for better performance and security properties than ECDSA.  
-[Learn More](#)
+[Learn More](https://datatracker.ietf.org/doc/html/rfc8032)
 
 ---
 
 #### RLP {#rlp}
 Recursive Length Prefix encoding used by Ethereum to serialize transaction data before signing and broadcasting.  
-[Learn More](#)
+[Learn More](https://ethereum.org/developers/docs/data-structures-and-encoding/rlp/)
